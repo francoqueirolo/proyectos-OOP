@@ -1,6 +1,6 @@
 # Poyectos OOP
 
-### Comandos 📋
+### Comandos Docker📋
 
 ```
 docker-compose up -d
